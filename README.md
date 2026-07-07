@@ -81,6 +81,69 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.00%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 154.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 120 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                569 commits         █████████████░░░░░░░░░░░░   51.59 % 
+🌆 Daytime                362 commits         ████████░░░░░░░░░░░░░░░░░   32.82 % 
+🌃 Evening                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   352 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
+Tuesday                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Wednesday                93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Friday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Saturday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/07/2026 04:12:50 UTC
 <!--END_SECTION:waka-->
 
 <br/>
