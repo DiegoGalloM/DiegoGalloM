@@ -86,6 +86,67 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.00%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 154.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 121 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                574 commits         █████████████░░░░░░░░░░░░   51.81 % 
+🌆 Daytime                362 commits         ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌃 Evening                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   352 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
+Tuesday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Wednesday                93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Friday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Saturday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/07/2026 12:48:22 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
