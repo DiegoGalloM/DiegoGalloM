@@ -1,18 +1,28 @@
 <h1 align="center">Diego Gallo</h1>
-<p align="center"><i>Computer Technologies Engineering (ITC) student @ Tecnológico de Monterrey</i></p>
+<p align="center"><i>Computer Science student @ Tecnológico de Monterrey</i></p>
 
 <br/>
 
 ## About
 
-I build small, complete things end to end — from a Runge-Kutta particle simulator to an AI-powered news pipeline. Currently sharpening algorithms & data structures on the side while shipping personal projects on my own.
+I like understanding systems end to end. I'm currently exploring frontend design, git workflows, backend development, full-stack development, physical simulations, and project management — building hands-on in each rather than just reading about them. Where I've gone deepest is automation: I design and ship n8n + WhatsApp API workflows that qualify leads and save businesses real time and money, which is the core of what I'm building at Adesse.
 
 <br/>
 
 ## Experience
 
+**Founder & Developer — Adesse**
+Building automation systems with n8n and the WhatsApp API that qualify leads and save businesses time and money.
+
 **Web Developer — [VantTec](https://github.com/vanttec)**
 VantTec is a multidisciplinary student team at Tecnológico de Monterrey that designs, builds, and programs unmanned autonomous vehicles. I build and maintain the team's official website (React).
+
+<br/>
+
+## Education
+
+**Tecnológico de Monterrey** — B.S. in Computer Science
+High-performing student — GPA 99/100
 
 <br/>
 
@@ -41,15 +51,17 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 <br/>
 
@@ -66,13 +78,18 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 <br/>
 
+## Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 ## Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/output/snake.svg" />
+</p>
 
 <br/><br/>
 
