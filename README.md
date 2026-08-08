@@ -133,41 +133,22 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-JSON                     5 mins              █████████████░░░░░░░░░░░░   51.62 % 
-Markdown                 5 mins              ████████████░░░░░░░░░░░░░   48.34 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              9 mins              █████████████████████░░░░   85.59 % 
-VS Code                  1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-2026 - Enlaza            10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 1,160,518 Input Tokens, 7,874 Output Tokens
-
-💵 $3.60 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 286 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Timeline**
@@ -175,7 +156,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:33:50 UTC
+ Last Updated on 08/08/2026 19:10:18 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
