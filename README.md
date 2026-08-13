@@ -86,6 +86,10 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.02%20million%20lines%20of%20code-blue?style=flat)
@@ -129,27 +133,28 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      54 mins             ███████████████████████░░   90.78 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+C++                      2 hrs 23 mins       ███████████████████████░░   93.91 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA                      56 mins             ████████████████████████░   94.09 % 
-vscode                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Data Structure Coding Are1 hr 29 mins        ███████████████░░░░░░░░░░   58.76 % 
+DSA                      59 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
+vscode                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (50.31%)
+⏱ AI Coding Time: 30 mins (19.89%)
 
-✍️ 60 lines written by AI, 75 lines written by hand (44.44% AI-written)
+✍️ 60 lines written by AI, 113 lines written by hand (34.68% AI-written)
 
 🔤 62,949 Input Tokens, 2,425 Output Tokens
 
@@ -160,10 +165,10 @@ Windows                  1 hr                ███████████�
 Github-Copilot           60 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.44% of written lines came from AI
+⚖️ Balanced with AI — 34.68% of written lines came from AI
 📝 Concise Prompter — average 96 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 57.75% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 68.09% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -171,7 +176,7 @@ Github-Copilot           60 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:41:54 UTC
+ Last Updated on 13/08/2026 19:37:38 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
