@@ -109,21 +109,21 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                592 commits         █████████████░░░░░░░░░░░░   51.88 % 
-🌆 Daytime                383 commits         ████████░░░░░░░░░░░░░░░░░   33.57 % 
-🌃 Evening                129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+🌞 Morning                592 commits         █████████████░░░░░░░░░░░░   51.79 % 
+🌆 Daytime                385 commits         ████████░░░░░░░░░░░░░░░░░   33.68 % 
+🌃 Evening                129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   340 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Tuesday                  164 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Monday                   341 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+Tuesday                  165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Wednesday                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 ```
 
 
@@ -133,8 +133,8 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      4 hrs 5 mins        ██████████████████████░░░   88.34 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+C++                      4 hrs 5 mins        ██████████████████████░░░   88.35 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 PowerShell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
@@ -143,9 +143,9 @@ Bash                     0 secs              ░░░░░░░░░░░�
 VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA                      2 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.64 % 
-Data Structure Coding Are1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   39.82 % 
-VS-Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+DSA                      2 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.61 % 
+Data Structure Coding Are1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
+VS-Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
 vscode                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
@@ -155,9 +155,9 @@ Windows                  4 hrs 37 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (11.54%)
+⏱ AI Coding Time: 32 mins (11.53%)
 
-✍️ 60 lines written by AI, 351 lines written by hand (14.6% AI-written)
+✍️ 60 lines written by AI, 352 lines written by hand (14.56% AI-written)
 
 🔤 62,949 Input Tokens, 2,425 Output Tokens
 
@@ -168,10 +168,10 @@ Windows                  4 hrs 37 mins       ███████████�
 Github-Copilot           60 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.6% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 14.56% of written lines came from AI
 📝 Concise Prompter — average 89 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 89.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.69% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -179,7 +179,7 @@ Github-Copilot           60 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:10:07 UTC
+ Last Updated on 18/08/2026 19:10:14 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
