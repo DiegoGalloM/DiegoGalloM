@@ -92,38 +92,38 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.03%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 155.4 kB Used in GitHub's Storage 
+> 📦 185.3 kB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2026
+> 🏆 129 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                592 commits         █████████████░░░░░░░░░░░░   51.79 % 
-🌆 Daytime                385 commits         ████████░░░░░░░░░░░░░░░░░   33.68 % 
-🌃 Evening                129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+🌞 Morning                593 commits         █████████████░░░░░░░░░░░░   51.39 % 
+🌆 Daytime                393 commits         █████████░░░░░░░░░░░░░░░░   34.06 % 
+🌃 Evening                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   341 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-Tuesday                  165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Wednesday                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Monday                   341 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 ```
 
 
@@ -133,45 +133,44 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      4 hrs 5 mins        ██████████████████████░░░   88.35 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-PowerShell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C++                      4 hrs 34 mins       ██████████████████████░░░   88.73 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+PowerShell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA                      2 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.61 % 
-Data Structure Coding Are1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-VS-Code                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-vscode                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Data Structure Coding Are2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.11 % 
+VS-Code                  1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   35.34 % 
+DSA                      1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
 
 💻 Operating System: 
-Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (11.53%)
+⏱ AI Coding Time: 18 mins (5.85%)
 
-✍️ 60 lines written by AI, 352 lines written by hand (14.56% AI-written)
+✍️ 0 lines written by AI, 340 lines written by hand (0.0% AI-written)
 
-🔤 62,949 Input Tokens, 2,425 Output Tokens
+🔤 12,505 Input Tokens, 1,029 Output Tokens
 
-💵 $0.23 Estimated AI Cost This Week
+💵 $0.05 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-Github-Copilot           60 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.56% of written lines came from AI
-📝 Concise Prompter — average 89 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 89.69% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 40 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -179,7 +178,7 @@ Github-Copilot           60 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:10:14 UTC
+ Last Updated on 19/08/2026 19:05:26 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
