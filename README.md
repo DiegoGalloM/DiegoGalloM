@@ -133,28 +133,26 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      2 hrs 31 mins       ████████████████████████░   96.27 % 
-PowerShell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+C++                      2 hrs 4 mins        █████████████████████████   99.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VS-Code                  2 hrs 36 mins       █████████████████████████   99.75 % 
-Data Structure Coding Are0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+VS-Code                  2 hrs 4 mins        █████████████████████████   99.68 % 
+Data Structure Coding Are0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (8.27%)
+⏱ AI Coding Time: 13 mins (10.38%)
 
-✍️ 30 lines written by AI, 176 lines written by hand (14.56% AI-written)
+✍️ 30 lines written by AI, 130 lines written by hand (18.75% AI-written)
 
 🔤 12,505 Input Tokens, 1,029 Output Tokens
 
@@ -165,10 +163,10 @@ Windows                  2 hrs 37 mins       ███████████�
 Github-Copilot           30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.56% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 18.75% of written lines came from AI
 📝 Concise Prompter — average 74 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 86.36% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 82.46% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -176,7 +174,7 @@ Github-Copilot           30 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 19:01:00 UTC
+ Last Updated on 23/08/2026 18:59:54 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
