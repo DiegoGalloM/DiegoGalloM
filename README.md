@@ -133,40 +133,43 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      2 hrs 4 mins        █████████████████████████   99.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+C++                      2 hrs 3 mins        █████████████████████░░░░   84.53 % 
+Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VS-Code                  2 hrs 4 mins        █████████████████████████   99.68 % 
-Data Structure Coding Are0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+VS-Code                  2 hrs 22 mins       ████████████████████████░   97.56 % 
+Act 1.1                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Data Structure Coding Are0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Casos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (10.39%)
+⏱ AI Coding Time: 38 mins (26.25%)
 
-✍️ 30 lines written by AI, 129 lines written by hand (18.87% AI-written)
+✍️ 30 lines written by AI, 135 lines written by hand (18.18% AI-written)
 
-🔤 12,505 Input Tokens, 1,029 Output Tokens
+🔤 169,008 Input Tokens, 7,978 Output Tokens
 
-💵 $0.05 Estimated AI Cost This Week
+💵 $0.63 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
 Github-Copilot           30 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.87% of written lines came from AI
-📝 Concise Prompter — average 74 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 82.35% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 18.18% of written lines came from AI
+📝 Concise Prompter — average 105 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 83.24% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -174,7 +177,7 @@ Github-Copilot           30 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:11:45 UTC
+ Last Updated on 26/08/2026 21:00:24 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
