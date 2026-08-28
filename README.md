@@ -86,17 +86,17 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.05%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 185.5 kB Used in GitHub's Storage 
+> 📦 185.9 kB Used in GitHub's Storage 
  > 
 > 🏆 129 Contributions in the Year 2026
  > 
@@ -109,21 +109,21 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                593 commits         █████████████░░░░░░░░░░░░   50.95 % 
-🌆 Daytime                401 commits         █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌃 Evening                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+🌞 Morning                594 commits         █████████████░░░░░░░░░░░░   50.90 % 
+🌆 Daytime                401 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
+🌃 Evening                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   341 commits         ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Wednesday                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Monday                   341 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Thursday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 
 
@@ -133,43 +133,42 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      2 hrs 3 mins        █████████████████████░░░░   84.53 % 
-Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C++                      1 hr 38 mins        ████████████████████░░░░░   81.27 % 
+Other                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VS-Code                  2 hrs 22 mins       ████████████████████████░   97.56 % 
-Act 1.1                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Data Structure Coding Are0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+VS-Code                  1 hr 57 mins        ████████████████████████░   97.37 % 
+Act 1.1                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 Casos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (26.25%)
+⏱ AI Coding Time: 36 mins (29.84%)
 
-✍️ 30 lines written by AI, 135 lines written by hand (18.18% AI-written)
+✍️ 0 lines written by AI, 89 lines written by hand (0.0% AI-written)
 
 🔤 169,008 Input Tokens, 7,978 Output Tokens
 
 💵 $0.63 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 1 AI Sessions, 10 AI Prompts
 
-Github-Copilot           30 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.18% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 83.24% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 101 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -177,7 +176,7 @@ Github-Copilot           30 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 21:00:24 UTC
+ Last Updated on 28/08/2026 02:18:55 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
