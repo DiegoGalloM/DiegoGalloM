@@ -86,9 +86,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -133,12 +133,11 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      2 hrs 39 mins       █████████████████████░░░░   84.15 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+C++                      2 hrs 39 mins       █████████████████████░░░░   84.31 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
 VS-Code                  3 hrs 4 mins        ████████████████████████░   97.23 % 
@@ -147,13 +146,13 @@ Clase 6                  2 mins              ░░░░░░░░░░░�
 Casos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (25.27%)
+⏱ AI Coding Time: 48 mins (25.32%)
 
 ✍️ 35 lines written by AI, 144 lines written by hand (19.55% AI-written)
 
@@ -169,7 +168,7 @@ Github-Copilot           35 lines            ███████████�
 🧑‍💻 Mostly Hands-On — 19.55% of written lines came from AI
 📝 Concise Prompter — average 124 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 81.77% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 81.68% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -177,7 +176,7 @@ Github-Copilot           35 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:07:20 UTC
+ Last Updated on 30/08/2026 21:28:01 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
