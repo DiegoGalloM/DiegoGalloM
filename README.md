@@ -133,41 +133,41 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      2 hrs 39 mins       █████████████████████░░░░   84.31 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+C++                      2 hrs 49 mins       █████████████████████░░░░   85.05 % 
+Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VS-Code                  3 hrs 4 mins        ████████████████████████░   97.23 % 
-Act 1.1                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Clase 6                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+VS-Code                  3 hrs 13 mins       ████████████████████████░   97.36 % 
+Act 1.1                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Clase 6                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 Casos                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (25.32%)
+⏱ AI Coding Time: 49 mins (24.98%)
 
 ✍️ 35 lines written by AI, 144 lines written by hand (19.55% AI-written)
 
-🔤 297,502 Input Tokens, 9,657 Output Tokens
+🔤 326,525 Input Tokens, 11,999 Output Tokens
 
-💵 $1.04 Estimated AI Cost This Week
+💵 $1.16 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 5 AI Sessions, 18 AI Prompts
 
 Github-Copilot           35 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 19.55% of written lines came from AI
-📝 Concise Prompter — average 124 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 81.68% of changed lines were hand-edited
 ```
 
@@ -176,7 +176,7 @@ Github-Copilot           35 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:28:01 UTC
+ Last Updated on 31/08/2026 23:01:10 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
