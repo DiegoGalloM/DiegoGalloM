@@ -86,9 +86,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -96,9 +96,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 **🐱 My GitHub Data** 
 
-> 📦 185.9 kB Used in GitHub's Storage 
+> 📦 186.4 kB Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2026
+> 🏆 130 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,21 +109,21 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                594 commits         █████████████░░░░░░░░░░░░   50.90 % 
-🌆 Daytime                401 commits         █████████░░░░░░░░░░░░░░░░   34.36 % 
-🌃 Evening                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌞 Morning                595 commits         █████████████░░░░░░░░░░░░   50.90 % 
+🌆 Daytime                401 commits         █████████░░░░░░░░░░░░░░░░   34.30 % 
+🌃 Evening                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   341 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Wednesday                112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Thursday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Monday                   342 commits         ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Wednesday                112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Thursday                 125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 ```
 
 
@@ -176,7 +176,7 @@ Github-Copilot           35 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 23:01:10 UTC
+ Last Updated on 01/09/2026 21:16:34 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
