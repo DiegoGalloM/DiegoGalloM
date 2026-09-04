@@ -86,7 +86,7 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%205%20mins-blue?style=flat)
 
@@ -96,9 +96,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 **🐱 My GitHub Data** 
 
-> 📦 187.2 kB Used in GitHub's Storage 
+> 📦 197.9 kB Used in GitHub's Storage 
  > 
-> 🏆 131 Contributions in the Year 2026
+> 🏆 133 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,21 +109,21 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                595 commits         █████████████░░░░░░░░░░░░   50.72 % 
-🌆 Daytime                402 commits         █████████░░░░░░░░░░░░░░░░   34.27 % 
-🌃 Evening                139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌞 Morning                595 commits         █████████████░░░░░░░░░░░░   50.60 % 
+🌆 Daytime                402 commits         █████████░░░░░░░░░░░░░░░░   34.18 % 
+🌃 Evening                142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   342 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-Tuesday                  178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Wednesday                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Thursday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Monday                   342 commits         ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Tuesday                  178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Wednesday                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Friday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 ```
 
 
@@ -133,41 +133,49 @@ Sunday                   64 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      3 hrs 17 mins       ████████████████████████░   95.82 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+C++                      3 hrs 37 mins       ███████████████░░░░░░░░░░   59.26 % 
+JavaScript               59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+TypeScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 6 mins        █████████████████░░░░░░░░   67.23 % 
+Claude Code              2 hrs               ████████░░░░░░░░░░░░░░░░░   32.77 % 
 
 🐱‍💻 Projects: 
-VS-Code                  3 hrs 7 mins        ███████████████████████░░   90.84 % 
-Clase 6                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS-Code                  3 hrs 23 mins       ██████████████░░░░░░░░░░░   55.69 % 
+enlaza                   2 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
+Clase 6                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Clase 7                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (34.76%)
+⏱ AI Coding Time: 3 hrs 33 mins (58.26%)
 
-✍️ 64 lines written by AI, 213 lines written by hand (23.1% AI-written)
+✍️ 2,239 lines written by AI, 284 lines written by hand (88.74% AI-written)
 
-🔤 181,397 Input Tokens, 5,782 Output Tokens
+🔤 543,661 Input Tokens, 143,532 Output Tokens
 
-💵 $0.63 Estimated AI Cost This Week
+💵 $38.22 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 23 AI Prompts
+🧠 8 AI Sessions, 29 AI Prompts
 
-Github-Copilot           64 lines            █████████████████████████   100.00 % 
+Fable                    1,905 lines         ████████████████████░░░░░   79.24 % 
+Github-Copilot           362 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Opus                     137 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.1% of written lines came from AI
-📝 Concise Prompter — average 138 characters per prompt
+🤖 AI-Driven — 88.74% of written lines came from AI
+📝 Concise Prompter — average 119 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 79.29% of changed lines were hand-edited
+🚀 High AI Trust — 11.68% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -175,7 +183,7 @@ Github-Copilot           64 lines            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:17:35 UTC
+ Last Updated on 04/09/2026 20:59:32 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
