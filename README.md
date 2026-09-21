@@ -133,53 +133,51 @@ Sunday                   90 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Markdown                 4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
-TypeScript               2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Python                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Markdown                 4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
+TypeScript               2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Python                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 45 mins       █████████████████████░░░░   85.23 % 
-VS Code                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Codex CLI                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Claude Code              9 hrs 45 mins       ██████████████████████░░░   86.53 % 
+VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Codex CLI                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Codex Vscode             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🐱‍💻 Projects: 
-HackMTY2026              6 hrs 27 mins       ██████████████░░░░░░░░░░░   56.34 % 
-enlaza                   4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.00 % 
-Eco-City                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-referenced-chatgpt-conver11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+HackMTY2026              6 hrs 11 mins       ██████████████░░░░░░░░░░░   54.93 % 
+enlaza                   4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.54 % 
+Eco-City                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+referenced-chatgpt-conver11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Windows                  11 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 52 mins (94.89%)
+⏱ AI Coding Time: 10 hrs 49 mins (96.03%)
 
-✍️ 7,384 lines written by AI, 2,827 lines written by hand (72.31% AI-written)
+✍️ 7,384 lines written by AI, 6 lines written by hand (99.92% AI-written)
 
-🔤 2,738,934 Input Tokens, 695,314 Output Tokens
+🔤 2,626,879 Input Tokens, 707,397 Output Tokens
 
-💵 $150.66 Estimated AI Cost This Week
+💵 $150.76 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 84 AI Prompts
+🧠 18 AI Sessions, 76 AI Prompts
 
-Opus                     7,360 lines         ████████████████████████░   95.42 % 
-Sonnet                   279 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-GPT                      74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     7,360 lines         █████████████████████████   99.00 % 
+GPT                      74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.31% of written lines came from AI
-📚 Verbose Prompter — average 1,725 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 27.99% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 1,939 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.91% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -187,7 +185,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:02:07 UTC
+ Last Updated on 21/09/2026 22:10:21 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
