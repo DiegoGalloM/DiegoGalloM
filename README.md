@@ -96,7 +96,7 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 **🐱 My GitHub Data** 
 
-> 📦 258.7 kB Used in GitHub's Storage 
+> 📦 259.2 kB Used in GitHub's Storage 
  > 
 > 🏆 229 Contributions in the Year 2026
  > 
@@ -109,20 +109,20 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                765 commits         ████████████░░░░░░░░░░░░░   47.34 % 
-🌆 Daytime                488 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
-🌃 Evening                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+🌞 Morning                765 commits         ████████████░░░░░░░░░░░░░   47.31 % 
+🌆 Daytime                488 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
+🌃 Evening                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   369 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Tuesday                  271 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Wednesday                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Thursday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Saturday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Monday                   369 commits         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Wednesday                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Thursday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Friday                   281 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Saturday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 Sunday                   90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 
@@ -133,40 +133,41 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.22 % 
-C                        2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
-JavaScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Objective-C              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+C++                      5 hrs 2 mins        ███████████████░░░░░░░░░░   59.50 % 
+C                        1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+JavaScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Objective-C              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 57 mins       ██████████████████████░░░   89.87 % 
-Claude Code              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+VS Code                  7 hrs 45 mins       ███████████████████████░░   91.58 % 
+Claude Code              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-VS-Code                  5 hrs 17 mins       ████████████████████░░░░░   79.99 % 
-enlaza                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Act 2.1                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Clase 2                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-crea-un-mockup-realista-d9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+VS-Code                  6 hrs 52 mins       ████████████████████░░░░░   81.18 % 
+enlaza                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Act 2.1                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Act 2.2                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Periodo 2                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (51.14%)
+⏱ AI Coding Time: 5 hrs 6 mins (60.26%)
 
-✍️ 687 lines written by AI, 492 lines written by hand (58.27% AI-written)
+✍️ 687 lines written by AI, 587 lines written by hand (53.92% AI-written)
 
-🔤 3,278,252 Input Tokens, 126,492 Output Tokens
+🔤 6,440,346 Input Tokens, 132,015 Output Tokens
 
-💵 $22.40 Estimated AI Cost This Week
+💵 $31.97 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 73 AI Prompts
+🧠 9 AI Sessions, 100 AI Prompts
 
 Codex-Vscode             325 lines           █████████░░░░░░░░░░░░░░░░   37.40 % 
 GPT                      284 lines           ████████░░░░░░░░░░░░░░░░░   32.68 % 
@@ -174,10 +175,10 @@ Opus                     201 lines           ██████░░░░░�
 Github-Copilot           59 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.27% of written lines came from AI
-📝 Concise Prompter — average 371 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 46.67% of changed lines were hand-edited
+⚖️ Balanced with AI — 53.92% of written lines came from AI
+📝 Concise Prompter — average 316 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 50.79% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -185,7 +186,7 @@ Github-Copilot           59 lines            ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:47:37 UTC
+ Last Updated on 07/10/2026 23:17:39 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
