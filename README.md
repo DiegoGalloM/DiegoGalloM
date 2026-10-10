@@ -133,49 +133,50 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      5 hrs 2 mins        ████████████████░░░░░░░░░   65.75 % 
-C                        1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Objective-C              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Roff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C++                      2 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.63 % 
+C                        1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Objective-C              25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 34 mins       █████████████████████████   98.85 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+VS Code                  5 hrs 27 mins       ████████████████████████░   95.77 % 
+Codex Vscode             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-VS-Code                  6 hrs 52 mins       ██████████████████████░░░   89.70 % 
-Act 2.1                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Act 2.2                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Periodo 2                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Clase 2                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+VS-Code                  4 hrs 55 mins       ██████████████████████░░░   86.44 % 
+quiero                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Act 2.2                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Act 2.1                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Periodo 2                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
-Windows                  7 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 18 mins (56.09%)
+⏱ AI Coding Time: 3 hrs 13 mins (56.49%)
 
-✍️ 59 lines written by AI, 587 lines written by hand (9.13% AI-written)
+✍️ 27 lines written by AI, 474 lines written by hand (5.39% AI-written)
 
-🔤 6,124,139 Input Tokens, 35,129 Output Tokens
+🔤 4,205,766 Input Tokens, 25,329 Output Tokens
 
-💵 $20.44 Estimated AI Cost This Week
+💵 $13.17 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 93 AI Prompts
+🧠 6 AI Sessions, 56 AI Prompts
 
-Opus                     181 lines           ███████████████████░░░░░░   75.42 % 
-Github-Copilot           59 lines            ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+GPT                      27 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.13% of written lines came from AI
-📝 Concise Prompter — average 131 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🔍 Hands-On Reviewer — 92.33% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 5.39% of written lines came from AI
+📝 Concise Prompter — average 276 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 95.2% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -183,7 +184,7 @@ Github-Copilot           59 lines            ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:52:09 UTC
+ Last Updated on 10/10/2026 21:58:43 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
