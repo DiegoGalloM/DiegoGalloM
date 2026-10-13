@@ -86,19 +86,19 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 259.2 kB Used in GitHub's Storage 
+> 📦 259.6 kB Used in GitHub's Storage 
  > 
-> 🏆 346 Contributions in the Year 2026
+> 🏆 350 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,21 +109,21 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                765 commits         ████████████░░░░░░░░░░░░░   47.28 % 
-🌆 Daytime                489 commits         ████████░░░░░░░░░░░░░░░░░   30.22 % 
-🌃 Evening                287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌞 Morning                765 commits         ████████████░░░░░░░░░░░░░   47.16 % 
+🌆 Daytime                492 commits         ████████░░░░░░░░░░░░░░░░░   30.33 % 
+🌃 Evening                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌙 Night                  77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   369 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Wednesday                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Thursday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Friday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Saturday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Sunday                   90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Monday                   370 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Tuesday                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Wednesday                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Thursday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Friday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Saturday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Sunday                   90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 ```
 
 
@@ -181,7 +181,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:57:32 UTC
+ Last Updated on 13/10/2026 23:04:28 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
