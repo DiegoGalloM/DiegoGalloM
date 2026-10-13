@@ -133,50 +133,47 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      2 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.13 % 
-C                        1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   34.90 % 
-Objective-C              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+C++                      2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
+C                        1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Assembly                 1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Objective-C              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 29 mins       ████████████████████████░   94.90 % 
-Codex Vscode             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+VS Code                  5 hrs 55 mins       █████████████████████████   98.27 % 
+Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🐱‍💻 Projects: 
-VS-Code                  4 hrs 8 mins        ██████████████████████░░░   87.60 % 
-quiero                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Act 2.2                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Periodo 2                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-enlaza                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+VS-Code                  4 hrs 8 mins        █████████████████░░░░░░░░   68.77 % 
+Downloads                1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Act 2.2                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Periodo 2                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 💻 Operating System: 
-Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 37 mins (55.51%)
+⏱ AI Coding Time: 2 hrs 55 mins (48.39%)
 
-✍️ 27 lines written by AI, 440 lines written by hand (5.78% AI-written)
+✍️ 1 lines written by AI, 511 lines written by hand (0.2% AI-written)
 
-🔤 3,502,818 Input Tokens, 21,891 Output Tokens
+🔤 3,441,385 Input Tokens, 10,462 Output Tokens
 
-💵 $11.01 Estimated AI Cost This Week
+💵 $10.52 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 43 AI Prompts
+🧠 4 AI Sessions, 41 AI Prompts
 
-GPT                      27 lines            █████████████████████████   100.00 % 
+GPT                      24 lines            █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.78% of written lines came from AI
-📝 Concise Prompter — average 296 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 94.86% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.2% of written lines came from AI
+📝 Concise Prompter — average 136 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 99.83% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -184,7 +181,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:23:36 UTC
+ Last Updated on 13/10/2026 00:57:32 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
