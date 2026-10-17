@@ -86,9 +86,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -96,9 +96,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 **🐱 My GitHub Data** 
 
-> 📦 261.6 kB Used in GitHub's Storage 
+> 📦 261.9 kB Used in GitHub's Storage 
  > 
-> 🏆 363 Contributions in the Year 2026
+> 🏆 365 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,20 +109,20 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                768 commits         ████████████░░░░░░░░░░░░░   46.97 % 
-🌆 Daytime                500 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌃 Evening                289 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-🌙 Night                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+🌞 Morning                769 commits         ████████████░░░░░░░░░░░░░   46.98 % 
+🌆 Daytime                500 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌃 Evening                290 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+🌙 Night                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   370 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Tuesday                  276 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Wednesday                150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Thursday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Friday                   290 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Saturday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Monday                   370 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Tuesday                  276 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Wednesday                150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Thursday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Friday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Saturday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 Sunday                   90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 
@@ -133,46 +133,46 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C                        2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
-C++                      2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
-Assembly                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Pawn                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+C++                      6 hrs 12 mins       ███████████████░░░░░░░░░░   59.09 % 
+C                        1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Assembly                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 47 mins       ██████████████████████░░░   88.61 % 
-Copilot CLI              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+VS Code                  8 hrs 47 mins       █████████████████████░░░░   83.69 % 
+Copilot CLI              1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 
 🐱‍💻 Projects: 
-VS-Code                  3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
-TC1031-Act1.3            2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
-Downloads                1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+VS-Code                  5 hrs 48 mins       ██████████████░░░░░░░░░░░   55.33 % 
+TC1031-Act1.3            2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Downloads                1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 
 💻 Operating System: 
-Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 58 mins (38.74%)
+⏱ AI Coding Time: 4 hrs 6 mins (39.18%)
 
-✍️ 6 lines written by AI, 531 lines written by hand (1.12% AI-written)
+✍️ 181 lines written by AI, 612 lines written by hand (22.82% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 842,379 Input Tokens, 107,304 Output Tokens
 
-💵 $0.87 Estimated AI Cost This Week
+💵 $1.38 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 27 AI Prompts
+🧠 7 AI Sessions, 53 AI Prompts
 
-GPT                      34 lines            █████████████████████████   100.00 % 
+GPT                      209 lines           █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.12% of written lines came from AI
-📝 Concise Prompter — average 272 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 98.18% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 22.82% of written lines came from AI
+📝 Concise Prompter — average 243 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 78.84% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -180,7 +180,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:38:16 UTC
+ Last Updated on 17/10/2026 20:53:38 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
