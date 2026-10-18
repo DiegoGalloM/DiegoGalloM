@@ -86,9 +86,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -133,29 +133,30 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      6 hrs 12 mins       ███████████████░░░░░░░░░░   59.09 % 
-C                        1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Assembly                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+C++                      6 hrs 23 mins       ██████████████░░░░░░░░░░░   57.30 % 
+C                        1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Assembly                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 47 mins       █████████████████████░░░░   83.69 % 
-Copilot CLI              1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+VS Code                  9 hrs 26 mins       █████████████████████░░░░   84.64 % 
+Copilot CLI              1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 
 🐱‍💻 Projects: 
-VS-Code                  5 hrs 48 mins       ██████████████░░░░░░░░░░░   55.33 % 
-TC1031-Act1.3            2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Downloads                1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+VS-Code                  5 hrs 48 mins       █████████████░░░░░░░░░░░░   52.12 % 
+TC1031-Act1.3            2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+Downloads                1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Captura_Imagenes_ESP     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 💻 Operating System: 
-Windows                  10 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 6 mins (39.18%)
+⏱ AI Coding Time: 4 hrs 6 mins (36.9%)
 
 ✍️ 181 lines written by AI, 612 lines written by hand (22.82% AI-written)
 
@@ -180,7 +181,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:53:38 UTC
+ Last Updated on 18/10/2026 21:00:25 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
