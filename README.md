@@ -92,13 +92,13 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 261.9 kB Used in GitHub's Storage 
+> 📦 262.4 kB Used in GitHub's Storage 
  > 
-> 🏆 365 Contributions in the Year 2026
+> 🏆 370 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,21 +109,21 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                769 commits         ████████████░░░░░░░░░░░░░   46.98 % 
-🌆 Daytime                500 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
-🌃 Evening                290 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-🌙 Night                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌞 Morning                775 commits         ████████████░░░░░░░░░░░░░   47.14 % 
+🌆 Daytime                501 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
+🌃 Evening                290 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+🌙 Night                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   370 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Tuesday                  276 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Wednesday                150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Thursday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Friday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Saturday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Sunday                   90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Monday                   370 commits         ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Tuesday                  283 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Thursday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Friday                   291 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Saturday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Sunday                   90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 ```
 
 
@@ -180,7 +180,7 @@ GPT                      185 lines           ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:36:57 UTC
+ Last Updated on 20/10/2026 21:50:47 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
