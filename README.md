@@ -86,9 +86,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -133,34 +133,34 @@ Sunday                   90 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
-Assembly                 2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-Python                   1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-HTTP                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-C                        39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+C++                      3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.60 % 
+Assembly                 2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Python                   1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+HTTP                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+C                        39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 1 min         █████████████████████░░░░   84.73 % 
-Copilot CLI              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Claude Code              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+VS Code                  8 hrs 4 mins        █████████████████████░░░░   84.78 % 
+Copilot CLI              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Claude Code              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🐱‍💻 Projects: 
-VS-Code                  4 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.71 % 
-Ensamblador              2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-HW - E04                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-API_Sensores_DiegoGallo  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+VS-Code                  4 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.91 % 
+Ensamblador              2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+HW - E04                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+API_Sensores_DiegoGallo  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 SMALC-AD26               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Windows                  9 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 51 mins (30.2%)
+⏱ AI Coding Time: 2 hrs 51 mins (30.09%)
 
-✍️ 1,504 lines written by AI, 581 lines written by hand (72.13% AI-written)
+✍️ 1,504 lines written by AI, 582 lines written by hand (72.1% AI-written)
 
 🔤 427,230 Input Tokens, 78,645 Output Tokens
 
@@ -173,10 +173,10 @@ Sonnet                   655 lines           ███████████�
 GPT                      69 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.13% of written lines came from AI
+🤖 AI-Driven — 72.1% of written lines came from AI
 📄 Detailed Prompter — average 578 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 31.57% of changed lines were hand-edited
+🚀 High AI Trust — 31.61% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -184,7 +184,7 @@ GPT                      69 lines            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:10:57 UTC
+ Last Updated on 26/10/2026 22:52:21 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
