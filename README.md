@@ -86,9 +86,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -133,51 +133,51 @@ Sunday                   92 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-JavaScript               1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-CSS                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Other                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+TypeScript               2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+JavaScript               1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+CSS                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 25 mins       ██████████████████░░░░░░░   70.47 % 
-Codex Vscode             1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-VS Code                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Claude Code              6 hrs 24 mins       ███████████████████░░░░░░   74.65 % 
+Codex Vscode             1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+VS Code                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-enlaza                   3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.92 % 
-kilito-365               1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Website-VantTec          1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-quiero-que-cuando-eso-est34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-kilito365                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+enlaza                   3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.68 % 
+kilito-365               1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Website-VantTec          1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+work                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+quiero-que-cuando-eso-est34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 💻 Operating System: 
-Windows                  7 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 2 mins (91.52%)
+⏱ AI Coding Time: 8 hrs 2 mins (93.64%)
 
-✍️ 4,806 lines written by AI, 43 lines written by hand (99.11% AI-written)
+✍️ 5,600 lines written by AI, 66 lines written by hand (98.84% AI-written)
 
-🔤 2,379,967 Input Tokens, 711,938 Output Tokens
+🔤 2,990,780 Input Tokens, 817,535 Output Tokens
 
-💵 $53.19 Estimated AI Cost This Week
+💵 $60.74 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 42 AI Prompts
+🧠 13 AI Sessions, 46 AI Prompts
 
-Opus                     5,065 lines         ███████████████████████░░   93.04 % 
-GPT                      378 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Opus                     5,859 lines         ███████████████████████░░   93.92 % 
+GPT                      378 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.11% of written lines came from AI
-📄 Detailed Prompter — average 1,063 characters per prompt
+🤖 AI-Driven — 98.84% of written lines came from AI
+📄 Detailed Prompter — average 1,385 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.81% of changed lines were hand-edited
+🚀 High AI Trust — 1.07% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -185,7 +185,7 @@ Sonnet                   1 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 21:50:52 UTC
+ Last Updated on 01/11/2026 22:18:54 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
