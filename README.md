@@ -133,32 +133,33 @@ Sunday                   129 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      8 hrs 20 mins       ██████████████████████░░░   86.10 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+C++                      8 hrs 20 mins       █████████████████████░░░░   85.94 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 31 mins       ██████████████████████░░░   87.94 % 
-Copilot CLI              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+VS Code                  8 hrs 32 mins       ██████████████████████░░░   87.96 % 
+Copilot CLI              47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 Claude Code              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-VS-Code                  8 hrs 41 mins       ██████████████████████░░░   89.78 % 
-API_Sorty_DiegoGallo_clim30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+VS-Code                  8 hrs 41 mins       ██████████████████████░░░   89.61 % 
+API_Sorty_DiegoGallo_clim30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 enlaza-mvp               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 API_Sensores_BDnube      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Base de datos en nube    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 30 mins (25.86%)
+⏱ AI Coding Time: 2 hrs 30 mins (25.82%)
 
 ✍️ 861 lines written by AI, 824 lines written by hand (51.1% AI-written)
 
@@ -176,7 +177,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ⚖️ Balanced with AI — 51.1% of written lines came from AI
 📝 Concise Prompter — average 199 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 57.84% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 57.88% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -184,7 +185,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 23:47:46 UTC
+ Last Updated on 24/11/2026 04:04:34 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
