@@ -96,9 +96,9 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 
 **🐱 My GitHub Data** 
 
-> 📦 305.9 kB Used in GitHub's Storage 
+> 📦 306.0 kB Used in GitHub's Storage 
  > 
-> 🏆 488 Contributions in the Year 2026
+> 🏆 500 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,21 +109,21 @@ Pick-up sports matchup app (Next.js, Supabase). My part: backend and the Supabas
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1010 commits        ███████████░░░░░░░░░░░░░░   43.80 % 
-🌆 Daytime                707 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌃 Evening                489 commits         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-🌙 Night                  100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+🌞 Morning                1010 commits        ███████████░░░░░░░░░░░░░░   43.57 % 
+🌆 Daytime                719 commits         ████████░░░░░░░░░░░░░░░░░   31.02 % 
+🌃 Evening                489 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+🌙 Night                  100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Tuesday                  470 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Wednesday                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Thursday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Friday                   436 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Saturday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Sunday                   129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Monday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Tuesday                  470 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Wednesday                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Friday                   448 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Saturday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Sunday                   129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 
 
@@ -133,30 +133,30 @@ Sunday                   129 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-C++                      33 mins             ██████████░░░░░░░░░░░░░░░   41.49 % 
-TypeScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-C                        11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Objective-C              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+C++                      31 mins             ██████████░░░░░░░░░░░░░░░   39.94 % 
+TypeScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+C                        11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Objective-C              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 🔥 Editors: 
-VS Code                  48 mins             ███████████████░░░░░░░░░░   60.20 % 
-Claude Code              22 mins             ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-Copilot CLI              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+VS Code                  46 mins             ███████████████░░░░░░░░░░   59.15 % 
+Claude Code              22 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Copilot CLI              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 
 🐱‍💻 Projects: 
-VS-Code                  53 mins             █████████████████░░░░░░░░   66.65 % 
-enlaza-mvp               22 mins             ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-Base de datos en nube    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+VS-Code                  51 mins             ████████████████░░░░░░░░░   65.77 % 
+enlaza-mvp               22 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Base de datos en nube    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (42.97%)
+⏱ AI Coding Time: 34 mins (44.11%)
 
 ✍️ 794 lines written by AI, 109 lines written by hand (87.93% AI-written)
 
@@ -182,7 +182,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DiegoGalloM/DiegoGalloM/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 01:55:58 UTC
+ Last Updated on 28/11/2026 01:38:03 UTC
 <!--END_SECTION:waka-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3329,100:E8C97A&height=4" />
